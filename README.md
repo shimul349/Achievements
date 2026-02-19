@@ -7,7 +7,8 @@ Welcome to my certification repository! This space serves as a professional time
 
 ## 🤖 Artificial Intelligence & Machine Learning
 * **AWS Certified Machine Learning Engineer - Associate** *Official Practice Question Set (MLA-C01)* | Issued: Oct 19, 2025  
-* **Databricks for Machine Learning** *Simplilearn SkillUp Certification* | Issued: Oct 19, 2025  
+* **Databricks for Machine Learning** *Simplilearn SkillUp Certification* | Issued: Oct 19, 2025
+*  **Master ChatGPT** - UniAthena (Issued: Aug 8, 2025)
 
 ## 🐍 Programming & Tools
 * **Python Beginner Level Champion** *TechGig Certified Professional* | Issued: Aug 8, 2025  
